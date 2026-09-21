@@ -1,2 +1,0 @@
-# PrivacyTerms
-App Privacy Terms
