@@ -34,8 +34,5 @@
   <p>Since this is a single-user, locally-run application, all data is stored only on
   my own device. I can delete any or all of it at any time.</p>
 
-  <h2>Contact</h2>
-  <p>Questions about this application can be directed to [your email or GitHub profile
-  link].</p>
 </body>
 </html>
