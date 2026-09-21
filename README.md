@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <h1>Marketplace Manager</h1>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><em>Last updated: 9/21/2026</em></p>
+
+  <p>This is a personal-use application I built to manage my own online reselling
+  inventory and sales records. It is not a commercial product and is not available
+  for use by other individuals or businesses.</p>
+
+  <h2>What this application accesses</h2>
+  <p>This application connects to my own eBay seller account through eBay's official
+  OAuth authorization process. Once connected, it retrieves order data - such as item
+  SKU, sold price, shipping amount paid by the buyer, and order date - using eBay's
+  Sell APIs.</p>
+
+  <h2>What this application stores</h2>
+  <p>Only the order details listed above are saved, into a private, local database that
+  I control on my own device. This application does not store my eBay account password,
+  only OAuth access tokens used to maintain the connection. It does not store buyer
+  names, addresses, email addresses, or any other personal information about eBay
+  buyers, even if such information is present in the API response.</p>
+
+  <h2>How this data is used</h2>
+  <p>This data is used solely to maintain my own sales and inventory records for my
+  personal reselling business. It is not shared with, sold to, or made accessible to
+  any third party.</p>
+
+  <h2>Data retention and deletion</h2>
+  <p>Since this is a single-user, locally-run application, all data is stored only on
+  my own device. I can delete any or all of it at any time.</p>
+
+  <h2>Contact</h2>
+  <p>Questions about this application can be directed to [your email or GitHub profile
+  link].</p>
+</body>
+</html>
